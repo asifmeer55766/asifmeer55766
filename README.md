@@ -1,6 +1,6 @@
 # Hi there, I'm Asif Hussain 👋
 
-### 🌐Software Developer | MERN Stack Developer |PHP Developer | Open Source Enthusiast | Lifelong Learner 🚀
+### 🌐Software Engineer | MERN Stack Developer |Python(Django),PHP,C,C++ 🚀
 
 
 ### 🔗 Let's Connect
@@ -12,7 +12,7 @@
 ---
 
 ## 💻 **About Me**
-I'm a passionate **MERN Stack Developer** focused on building robust, scalable, and user-friendly web applications. I thrive in dynamic environments, continually learning and experimenting with new technologies.
+I'm a **MERN Stack Developer** focused on building robust, scalable, and user-friendly web applications. I thrive in dynamic environments, continually learning and experimenting with new technologies.
 
 ### 🚀 **My Mission**:  
 **Build efficient, clean, and performant applications** that solve real-world problems while improving my skills with every project.
@@ -28,11 +28,11 @@ I'm a passionate **MERN Stack Developer** focused on building robust, scalable, 
 
 ### Backend
 - 🔗 **Frameworks**: Node.js, Express.js
-- 🛢️ **Databases**: MongoDB, mysql
+- 🛢️ **Databases**: MongoDB, mysql, SQL Server
 
 ### Tools & Other Skills
 - 🔧 **Version Control**: Git, GitHub
-- 🌐 **APIs**: RESTful, GraphQL
+- 🌐 **APIs**: RESTful, GraphQL, Rest API
 
 ---
 
