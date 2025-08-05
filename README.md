@@ -1,18 +1,18 @@
-# Hi there, I'm Asif Hussain 👋
+# Asif Hussain 👋
 
-### 🌐Software Engineer | MERN Stack Developer |Python(Django),PHP,C,C++ 🚀
+### Software Engineer | MERN Stack | Next.js | PHP 🚀
 
 
 ### 🔗 Let's Connect
-- 🌍 **Website/Portfolio:** [Portfolio Website](https://asifh.netlify.app)
+- 🌍 **Website/Portfolio:** [Portfolio](https://asifh.netlify.app)
 - 💼 **LinkedIn:** [linkedin.com/in/asif-hussain-meer](https://linkedin.com/in/asif-hussain-meer)
 - 📧 **Email:** [asifhussainmeer@gmail.com](mailto:asifhussainmeer7860@gmail.com)
-- 💻 **Instagram:** [Asif SWDeveloper](https://www.instagram.com/asifswdeveloper/)
+- 💻 **Fiverr:** [Asif H Dev](https://www.fiverr.com/sellers/asif_swdevelopr/)
 
 ---
 
 ## 💻 **About Me**
-I'm a **MERN Stack Developer** focused on building robust, scalable, and user-friendly web applications. I thrive in dynamic environments, continually learning and experimenting with new technologies.
+I'm a **MERN & Next.js Developer** focused on building robust, scalable, and user-friendly web applications. I thrive in dynamic environments, continually learning and experimenting with new technologies.
 
 ### 🚀 **My Mission**:  
 **Build efficient, clean, and performant applications** that solve real-world problems while improving my skills with every project.
@@ -22,7 +22,7 @@ I'm a **MERN Stack Developer** focused on building robust, scalable, and user-fr
 ## 🛠️ **Tech Stack**
 
 ### Frontend
-- 🌐 **Languages**: JavaScript, HTML, CSS, PHP
+- 🌐 **Languages**: HTML, CSS,JavaScript,PHP,
 - ⚛️ **Libraries/Frameworks**: React.js, Next.js
 - 🎨 **UI/UX**: Tailwind CSS, Bootstrap
 
@@ -35,11 +35,18 @@ I'm a **MERN Stack Developer** focused on building robust, scalable, and user-fr
 - 🌐 **APIs**: RESTful, GraphQL, Rest API
 
 ---
+## 📑 My Achievements
+- **🧾 IBM Full Stack Software Developer Professional**
+- **🧾 Google Agile Essentials**
+- **🧾 Atlassian agile project managment certification**
+- **🧾 Cisco Networking Academy IT Essentials**
+- **🧾 Linkedin Career Skills in Software Development**
 
 ## 🎯 **What I'm Working On**
 - 🔥 Building full-stack applications with MERN.
 - ✨ Exploring serverless technologies and microservices.
-- 🌱 Learning more about TypeScript and DevOps practices.
+- 🌱 Learning DSA.
+- 🖥 Exploring System Design 
 
 ---
 
