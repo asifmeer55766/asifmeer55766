@@ -1,6 +1,6 @@
 # Asif Hussain 👋
 
-### Software Engineer | MERN Stack | Next.js | PHP 🚀
+### Software Engineer | MERN Stack | Next.js | Java 🚀
 
 
 ### 🔗 Let's Connect
