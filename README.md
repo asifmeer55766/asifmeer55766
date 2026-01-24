@@ -8,6 +8,7 @@
 -  **LinkedIn:** [linkedin.com/in/asif-hussain-meer](https://linkedin.com/in/asif-hussain-meer)
 -  **Email:** [asifhussainmeer@gmail.com](mailto:asifhussainmeer7860@gmail.com)
 -  **Fiverr:** [Asif H Dev](https://www.fiverr.com/sellers/asif_swdevelopr/)
+-  **Upwork:** [Asif H](https://www.upwork.com/freelancers/~01233a9a3161920e67?mp_source=share)
 
 ---
 
