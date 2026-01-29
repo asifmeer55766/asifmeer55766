@@ -1,6 +1,7 @@
 <img width="1584" height="396" alt="Software Engineer (1)" src="https://github.com/user-attachments/assets/e836d641-7448-4883-908e-9fe070c93091" />
 
-# Asif Hussain
+<h1>Asif Hussain</h1> 
+
 ### SOFTWARE ENGINEER | NEXT.JS | MERN STACK | JAVA | PHP
 
 <p align="left">
@@ -12,7 +13,7 @@
 ---
 
 ## who I am ?
-I am a **Software Engineer** based in Faisalabad, Pakistan. I specialize in building high-performance, scalable web applications using the **MERN Stack** and **Next.js**. Currently, I'm diving deep into **Data Structures & Algorithms (DSA)** in Java to master the science behind clean code.
+I am a **Software Engineer** based in Faisalabad, Pakistan. I specialize in building high-performance, scalable web applications using the **MERN Stack** and **Next.js**. Currently, I'm learning **Data Structures & Algorithms (DSA)** in Java to master the science behind clean code and exploring System Design.
 
 -  **Current Mission:** Mastering System Design and React 19.
 -  **Project Focus:** Full-stack applications with serverless architecture.
@@ -42,9 +43,8 @@ graph LR
 
 
 ```
-## Featured Certifications
+## Certification and Achievements 
 - ### IBM Full Stack Software Developer Professional 
 - ### Google Agile Essentials
-- ### Google Agile Essentials 
 - ### Atlassian Agile Project Management 
 - ### Cisco IT Essentials 
