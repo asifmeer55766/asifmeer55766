@@ -1,68 +1,50 @@
-# Asif Hussain 
+<img width="1584" height="396" alt="Software Engineer (1)" src="https://github.com/user-attachments/assets/e836d641-7448-4883-908e-9fe070c93091" />
 
-### Software Engineer | MERN Stack | Next.js | Java 
+# Asif Hussain
+### SOFTWARE ENGINEER | NEXT.JS | MERN STACK | JAVA | PHP
 
-
-###  Let's Connect
--  **Website/Portfolio:** [Portfolio](https://asifh.netlify.app)
--  **LinkedIn:** [linkedin.com/in/asif-hussain-meer](https://linkedin.com/in/asif-hussain-meer)
--  **Email:** [asifhussainmeer7860@gmail.com](mailto:asifhussainmeer7860@gmail.com)
--  **Fiverr:** [Asif H Dev](https://www.fiverr.com/sellers/asif_swdevelopr/)
--  **Upwork:** [Asif H](https://www.upwork.com/freelancers/~01233a9a3161920e67?mp_source=share)
-
----
-
-##  **About Me**
-I'm a **MERN & Next.js Developer** focused on building robust, scalable, and user-friendly web applications. I thrive in dynamic environments, continually learning and experimenting with new technologies.
-
-###  **My Mission**:  
-**Build efficient, clean, and performant applications** that solve real-world problems while improving my skills with every project.
+<p align="left">
+  <a href="https://asifh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-blue?style=for-the-badge&logo=react" /></a>
+  <a href="https://linkedin.com/in/asif-hussain-meer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:asifhussainmeer7860@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
-##  **Tech Stack**
+## who I am ?
+I am a **Software Engineer** based in Faisalabad, Pakistan. I specialize in building high-performance, scalable web applications using the **MERN Stack** and **Next.js**. Currently, I'm diving deep into **Data Structures & Algorithms (DSA)** in Java to master the science behind clean code.
 
-### Frontend
--  **Languages**:JavaScript,PHP,Java,C++, HTML
-- **Libraries/Frameworks**: React.js, Next.js
--  **UI/UX**: Tailwind CSS, Bootstrap, CSS, SCSS
-
-### Backend
--  **Frameworks**: Node.js, Express.js
--  **Databases**: MongoDB, mysql, SQL Server
-
-### Tools & Other Skills
--  **Version Control**: Git, GitHub
--  **APIs**: RESTful, GraphQL, Rest API
-
----
-## 📑 My Achievements
-- **🧾 IBM Full Stack Software Developer Professional**
-- **🧾 Google Agile Essentials**
-- **🧾 Atlassian agile project managment certification**
-- **🧾 Cisco Networking Academy IT Essentials**
-- **🧾 Linkedin Career Skills in Software Development**
-
-##  **What I'm Working On**
--  Building full-stack applications with MERN.
--  Exploring serverless technologies and microservices.
--  Learning DSA.
--  Exploring System Design 
+-  **Current Mission:** Mastering System Design and React 19.
+-  **Project Focus:** Full-stack applications with serverless architecture.
+-  **Writing:** Authoring TypeScript interview preparation notes.
 
 ---
 
+##  My Tech Ecosystem
 
-##  **Fun Facts**
--  I love learning new programming languages.
--  Gaming is my favorite way to unwind.
--  Exploring new cultures through travel.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) |
 
 ---
 
-** Let's collaborate! Feel free to reach out if you'd like to work together or just chat tech!**
+##  Development Workflow
+```mermaid
+graph LR
+    A[Design/UI] --> B(Frontend: Next.js)
+    B --> C{API Layer}
+    C --> D[Node.js Backend]
+    C --> E[Database: MongoDB/SQL]
+    D --> F[Deployment: Netlify/Vercel]
 
 
-<!---
-asifmeer55766/asifmeer55766 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+## Featured Certifications
+- ### IBM Full Stack Software Developer Professional 
+- ### Google Agile Essentials
+- ### Google Agile Essentials 
+- ### Atlassian Agile Project Management 
+- ### Cisco IT Essentials 
