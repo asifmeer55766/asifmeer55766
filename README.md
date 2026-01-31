@@ -33,15 +33,36 @@ I am a **Software Engineer** based in Faisalabad, Pakistan. I specialize in buil
 
 ---
 
-##  Development Workflow
+## Final Year Project (FYP) Workflow 
+### AI Powered system design and Architecture Generator.
+My Final Year Project helps transform vague, natural-language requirements into clear and structured system designs.
+It assists developers and students in understanding system architecture, data flow, and technology choices before coding begins.
+By automating requirement analysis and design generation using AI, it reduces ambiguity, rework, and poor architectural decisions.
+Overall, it promotes engineering-first thinking focusing on problem understanding and solution design rather than just writing code.
+Demo link (https://fypsystemdesign.netlify.app)
 ```mermaid
-graph LR
-    A[Design/UI] --> B(Frontend: Next.js)
-    B --> C{API Layer}
-    C --> D[Node.js Backend]
-    C --> E[Database: MongoDB/SQL]
-    D --> F[Deployment: Netlify/Vercel]
-
+graph TB
+    A[User Requirements] --> B[NLP Parser + Gemini Api]
+    B --> C[Functional Req]
+    B --> D[Non Functional Req]
+    D --> E[ New request for Designing ]
+    C --> E[ New request for Designing ]
+    E --> F[NLP Parser + Gemini Api]
+    F --> G[generate new data set]
+G --> H[HLD section]
+G --> I[LLD section]
+G --> J[System Architecture]
+G --> K[Entity Relationship Diagram]
+G --> L[Backend APIs and Sequence Diagram]
+G --> M[Technology Recommendation for Dev]
+H --> N[Project Documentation]
+I --> N[Project Documentation]
+J --> N[Project Documentation]
+K --> N[Project Documentation]
+L --> N[Project Documentation]
+M --> N[Project Documentation]
+N --> O[Download PDF Docs]
+N --> P[Edit<br/>Delete<br/>Previous Projects records]
 
 ```
 ## Certification and Achievements 
